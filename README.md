@@ -24,7 +24,7 @@ This is a simple Python project where the computer picks a random number from 1 
 - Git & GitHub  
 
 ## Screenshots
-![Game Screenshot](screenshots/Screenshot%202025-11-23%20at%206.42.37%20PM.png)
+![Game Screenshot](screenshots/output.png)
 
 
 ## Project Structure
